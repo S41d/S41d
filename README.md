@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @S41d
-- 📚 I'm in my third year university, studying Computer Science at Université de Tours
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning android development in java
+- 📚 I'm in my second year of my masters degree at Sorbonne university
+- 👀 I’m interested in language developement, web and mobile development, and everything programming
