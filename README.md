@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @S41d
+- 👋 Hi, I’m Saïd ZUHAIR
 - 📚 I'm in my second year of my masters degree at Sorbonne university
-- 👀 I’m interested in language developement, web and mobile development, and everything programming
+- 👀 I’m interested in language developement, functional programming and some web and mobile developement too
