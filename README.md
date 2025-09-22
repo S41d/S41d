@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Saïd ZUHAIR
-- 📚 I'm in my second year of my masters degree at Sorbonne university
-- 💼 Currently doing an internship at OcamlPro
-- 👀 I’m interested in language developement, functional programming and some web and mobile developement too
